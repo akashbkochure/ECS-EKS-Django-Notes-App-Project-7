@@ -1,0 +1,1 @@
+# ECS-EKS-Django-Notes-App-Project-7
